@@ -1,5 +1,4 @@
 # Car-Counter
-# Car Counter
 
 A simple project to count cars in a video using computer vision.  
 It uses YOLOv8 for detecting vehicles and SORT for tracking them across frames.
